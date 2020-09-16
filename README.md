@@ -62,7 +62,8 @@
 <a href="https://medium.com/@marvinjwendt" target="blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@marvinjwendt" height="30" width="30" />
 </a>
-
+<a>
+<br>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=github.marvinjwendt"/>
+</a>
 </p>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=github.marvinjwendt)
