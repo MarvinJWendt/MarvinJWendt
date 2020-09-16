@@ -5,7 +5,7 @@
     <a>
     <img src="https://github-readme-stats.vercel.app/api?username=marvinjwendt&show_icons=true" alt="marvinjwendt" />
     </a>
-
+<br/>
 <a>
     <img alt="Go" src="https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white" />
 </a>
@@ -21,21 +21,21 @@
 <a>
     <img alt="C#" src="https://img.shields.io/badge/-C--Sharp-darkgreen?style=flat-square&logo=c-sharp&logoColor=white" />
 </a>
-
+<br/>
 <a>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </a>
 <a>
     <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-E34F26?style=flat-square&logo=markdown&logoColor=white" />
 </a>
-
+<br/>
 <a>
     <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white" />
 </a>
 <a>
     <img alt="Travis" src="https://img.shields.io/badge/-Travis-green?style=flat-square&logo=travis&logoColor=white" />
 </a>
-
+<br/>
 <a>
     <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js&logoColor=white" />
 </a>
@@ -69,7 +69,7 @@
 <a>
     <img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-darkblue?style=flat-square&logo=GitKraken&logoColor=white" />
 </a>
-
+<br/>
 <a>
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=white" />
 </a>
@@ -82,7 +82,7 @@
 <a>
     <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=flat-square&logo=eclipse&logoColor=white" />
 </a>
-
+<br/>
 <a>
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-green?style=flat-square&logo=linux&logoColor=white" />
 </a>
