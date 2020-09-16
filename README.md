@@ -37,10 +37,9 @@
 ![Bash](https://img.shields.io/badge/-Bash-green?style=flat-square&logo=linux&logoColor=white)
 ![Powershell](https://img.shields.io/badge/-Powershell-blue?style=flat-square&logo=powershell&logoColor=white)
 
+<h3 align="center" >Social Media</h3>
 
 <p align="center">
-
-<h3>Social Media</h3>
 
 <a href="https://codepen.io/marvinjwendt" target="blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="marvinjwendt" height="30" width="30" />
