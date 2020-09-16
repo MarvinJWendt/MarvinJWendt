@@ -38,6 +38,9 @@
 ![Powershell](https://img.shields.io/badge/-Powershell-blue?style=flat-square&logo=powershell&logoColor=white)
 
 ### Social Media
+
+<p align="center">
+
 <a href="https://codepen.io/marvinjwendt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="marvinjwendt" height="30" width="30" /></a>
 <a href="https://twitter.com/marvinjwendt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marvinjwendt" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/marvin-wendt-7631b519a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marvin-wendt-7631b519a" height="30" width="30" /></a>
@@ -45,5 +48,7 @@
 <a href="https://codesandbox.com/marvinjwendt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="marvinjwendt" height="30" width="30" /></a>
 <a href="https://instagram.com/marvinjwendt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="marvinjwendt" height="30" width="30" /></a>
 <a href="https://medium.com/@marvinjwendt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@marvinjwendt" height="30" width="30" /></a>
+
+</p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=github.marvinjwendt)
