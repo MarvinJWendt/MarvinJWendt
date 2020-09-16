@@ -27,8 +27,12 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-darkblue?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-darkblue?style=flat-square&logo=confluence&logoColor=white)
-![GitKraken](https://img.shields.io/badge/-GitKraken-blue?style=flat-square&logo=GitKraken&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-darkblue?style=flat-square&logo=GitKraken&logoColor=white)
+
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-blue?style=flat-square&logo=visual-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-purple?style=flat-square&logo=eclipse&logoColor=white)
 
 ![Bash](https://img.shields.io/badge/-Bash-green?style=flat-square&logo=linux&logoColor=white)
 ![Powershell](https://img.shields.io/badge/-Powershell-blue?style=flat-square&logo=powershell&logoColor=white)
