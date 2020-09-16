@@ -1,10 +1,11 @@
 <!--suppress ALL -->
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 <h3 align="center">I am fullstack developer working on various open-source projects</h3>
-
-<a align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=marvinjwendt&show_icons=true" alt="marvinjwendt" />
-</a>
+<p align="center">
+    <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=marvinjwendt&show_icons=true" alt="marvinjwendt" />
+    </a>
+</p>
 
 
 ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white)
