@@ -3,7 +3,7 @@
 <h3 align="center">I am a fullstack developer working on various open-source projects</h3>
 <p align="center">
     <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=marvinjwendt&show_icons=true" alt="marvinjwendt" />
+    <img src="https://github-readme-stats.vercel.app/api?username=marvinjwendt&show_icons=true&include_all_commits=true" alt="marvinjwendt" />
     </a>
     <br/>
     <a>
