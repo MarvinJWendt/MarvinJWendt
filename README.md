@@ -1,10 +1,11 @@
 <!--suppress ALL -->
 <h1 align="center">Hi 👋, I'm Marvin</h1>
-<h3 align="center">I am a fullstack developer working on various open-source projects</h3>
+<h3 align="center">I love to work on various open source projects.</h3>
 <p align="center">
     <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=marvinjwendt&show_icons=true&include_all_commits=true" alt="marvinjwendt" />
+    <img src="https://github-readme-stats.vercel.app/api?username=marvinjwendt&bg_color=30,51f2f5,f72fc2&title_color=fff&text_color=fff" alt="marvinjwendt" />
     </a>
+    <br/>
     <br/>
     <a>
         <img alt="Go" src="https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white" />
@@ -117,6 +118,9 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@marvinjwendt" height="30" width="30" />
 </a>
 <a>
+<br>
+<a href="https://marvinjwendt.com"><img src="https://img.shields.io/website?label=marvinjwendt.com&style=for-the-badge&url=https%3A%2F%2Fmarvinjwendt.com"/></a>
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MarvinJWendt"><img src="https://img.shields.io/twitter/follow/MarvinJWendt?color=1DA1F2&logo=twitter&style=for-the-badge"/></a>
 <br>
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=github.marvinjwendt"/>
 </a>
