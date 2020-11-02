@@ -3,7 +3,7 @@
 <h3 align="center">I love to work on various open source projects.</h3>
 <p align="center">
     <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=marvinjwendt&bg_color=30,51f2f5,f72fc2&title_color=fff&text_color=fff" alt="marvinjwendt" />
+    <img src="https://github-readme-stats.vercel.app/api?username=marvinjwendt&bg_color=30,51f2f5,f72fc2&title_color=fff&text_color=fff&include_all_commits=true" alt="marvinjwendt" />
     </a>
     <br/>
     <br/>
