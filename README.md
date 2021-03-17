@@ -37,6 +37,7 @@
 <a href="https://marvinjwendt.com"><img src="https://img.shields.io/website?label=marvinjwendt.com&style=for-the-badge&url=https%3A%2F%2Fmarvinjwendt.com"/></a>
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MarvinJWendt"><img src="https://img.shields.io/twitter/follow/MarvinJWendt?color=1DA1F2&logo=twitter&style=for-the-badge"/></a>
 <br>
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=github.marvinjwendt"/>
 </a>
 </p>
+<br/>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=github.marvinjwendt"/>
