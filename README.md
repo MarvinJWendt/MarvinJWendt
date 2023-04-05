@@ -1,56 +1,53 @@
 <!--suppress ALL -->
 <h1 align="center">Hi 👋, I'm Marvin</h1>
-<h3 align="center">I love to work on various open source projects.</h3>
 <p align="center">
-    <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=marvinjwendt&theme=dracula&text_color=fff&include_all_commits=true&count_private=true&show_icons=true&hide=stars" alt="marvinjwendt" />
+    <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MarvinJWendt">
+        <img src="https://img.shields.io/twitter/follow/MarvinJWendt?color=1DA1F2&logo=twitter&style=for-the-badge"/>
     </a>
 </p>
 
----
+## About me
 
+I have started programming when I was 11 years old 👶  
+Since then I developed a deep love for the open source community and software engineering 💙  
+I write articles about tech stuff and I develop tools to make development easier ✍️  
+I am currently working as a full-stack engineer 👨‍💻
+
+## Projects
+
+I am the creator of:
+- [@pterm](https://github.com/pterm/pterm): One of the most used TUI libraries in Go 💙
+- [@atomicgo](https://github.com/atomicgo): A collection of small Go libraries 📦
+- [@installer](https://github.com/installer/instl): An easy to use installer for all GitHub projects 🔧
+
+I also have many more open source projects, like [Testza](https://github.com/MarvinJWendt/testza).
+
+## Follow me on Social Media!
+<a href="https://twitter.com/MarvinJWendt" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="marvinjwendt" />
+</a>
+<a href="https://www.linkedin.com/in/marvinjwendt/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marvinjwendt" />
+</a>
+<a href="https://blog.marvinjwendt.com/" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="marvinjwendt" />
+</a>
+<a href="https://instagram.com/MarvinJWendt" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="marvinjwendt" />
+</a>
+<a href="https://stackoverflow.com/users/10588376/marvinjwendt" target="blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="marvinjwendt" />
+</a>
+
+<br><br>
+
+---
 
 <p align="center">
 <a href="https://discord.gg/vE2dNkfAmF">
-<img width="300" src="https://user-images.githubusercontent.com/31022056/158916278-4504b838-7ecb-4ab9-a900-7dc002aade78.png" alt="Join us on Discord!" />
+<img width="200" src="https://user-images.githubusercontent.com/31022056/158916278-4504b838-7ecb-4ab9-a900-7dc002aade78.png" alt="Join us on Discord!" />
 <br/>
 <b>Join me on Discord for support, discussions, updates and general talk!</b>
 </a>
 </p>
 
----
-
-<h3 align="center" >Social Media</h3>
-
-<p align="center">
-
-<a href="https://codepen.io/marvinjwendt" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="marvinjwendt" height="30" width="30" />
-</a>
-<a href="https://twitter.com/marvinjwendt" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marvinjwendt" height="30" width="30" />
-</a>
-<a href="https://linkedin.com/in/marvin-wendt-7631b519a" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marvin-wendt-7631b519a" height="30" width="30" />
-</a>
-<a href="https://stackoverflow.com/users/10588376" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10588376" height="30" width="30" />
-</a>
-<a href="https://codesandbox.com/marvinjwendt" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="marvinjwendt" height="30" width="30" />
-</a>
-<a href="https://instagram.com/marvinjwendt" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="marvinjwendt" height="30" width="30" />
-</a>
-<a href="https://medium.com/@marvinjwendt" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@marvinjwendt" height="30" width="30" />
-</a>
-<a>
-<br>
-<a href="https://blog.marvinjwendt.com"><img src="https://img.shields.io/website?label=blog.marvinjwendt.com&style=for-the-badge&url=https%3A%2F%2Fblog.marvinjwendt.com"/></a>
-<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MarvinJWendt"><img src="https://img.shields.io/twitter/follow/MarvinJWendt?color=1DA1F2&logo=twitter&style=for-the-badge"/></a>
-<br>
-</a>
-</p>
-<br/>
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=github.marvinjwendt"/>
