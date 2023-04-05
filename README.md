@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 <p align="center">
     <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MarvinJWendt">
-        <img src="https://img.shields.io/twitter/follow/MarvinJWendt?color=1DA1F2&logo=twitter&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/follow-%40MarvinJWendt-1DA1F2?logo=twitter&style=for-the-badge"/>
     </a>
 </p>
 
