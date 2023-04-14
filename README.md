@@ -23,19 +23,19 @@ I am the creator of:
 I also have many more open source projects, like [Testza](https://github.com/MarvinJWendt/testza).
 
 ## Follow me on Social Media!
-<a href="https://twitter.com/MarvinJWendt" target="blank">
+<a href="https://marvin.ws/twitter" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="marvinjwendt" />
 </a>
-<a href="https://www.linkedin.com/in/marvinjwendt/" target="blank">
+<a href="https://www.marvin.ws/linkedin" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marvinjwendt" />
 </a>
-<a href="https://blog.marvinjwendt.com/" target="blank">
+<a href="https://marvin.ws/blog" target="blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="marvinjwendt" />
 </a>
-<a href="https://instagram.com/MarvinJWendt" target="blank">
+<a href="https://marvin.ws/instagram" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="marvinjwendt" />
 </a>
-<a href="https://stackoverflow.com/users/10588376/marvinjwendt" target="blank">
+<a href="https://marvin.ws/stackoverflow" target="blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="marvinjwendt" />
 </a>
 
